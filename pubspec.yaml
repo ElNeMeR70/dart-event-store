@@ -1,0 +1,5 @@
+name: dart_event_store
+description: Append-only event store with time-based queries
+version: 1.0.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
